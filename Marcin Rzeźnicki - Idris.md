@@ -1,0 +1,1 @@
+[Marcin Rzeźnicki - Idris for (im)practical Scala programmers](http://slides.com/marcinrzeznicki/lambda/fullscreen#/)
